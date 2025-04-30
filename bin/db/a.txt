@@ -1,0 +1,5 @@
+计算机7班,计算机系,user,小张,xiaozhang,12345
+计算机4班,计算机系,user,小王,xiaowang,12345
+计算机1班,计算机系,user,小陈,xiaozcheng,12345
+计算机3班,计算机系,user,小周,xiaozhou,12345
+计算机5班,计算机系,user,小杨,xiaoyang,12345

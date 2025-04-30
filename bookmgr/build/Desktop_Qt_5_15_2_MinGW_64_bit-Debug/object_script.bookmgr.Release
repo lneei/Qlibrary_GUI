@@ -1,0 +1,17 @@
+release/cell_book.o
+release/cell_main.o
+release/cell_record.o
+release/cell_user.o
+release/dlg_bookau.o
+release/dlg_bookgs.o
+release/dlg_login.o
+release/main.o
+release/sqlmgr.o
+release/qrc_res.o
+release/moc_cell_book.o
+release/moc_cell_main.o
+release/moc_cell_record.o
+release/moc_cell_user.o
+release/moc_dlg_bookau.o
+release/moc_dlg_bookgs.o
+release/moc_dlg_login.o
